@@ -85,4 +85,5 @@ class PalindromeSolution(object):
 
 if __name__ == '__main__':
     solution = PalindromeSolution()
+    print("Testing Palindrome Solution:")
     print(solution.customValidatePalindrome("Murder for a jar of red rum"))
